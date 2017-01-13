@@ -1,8 +1,6 @@
 # Caribbean Coral Skeleton Identification Guide (CCSIG)
 
-The Caribbean Coral Skeleton Identification Guide (CCSIG) is an identification guide that is based on the physical characteristics of coral skeletons. 
-
-It is part of the coralbook project. The source code is [in this folder](https://github.com/odealab/coralbook/ccsig), in the GitHub account of the odealab.
+This repository hosts the site of the The Caribbean Coral Skeleton Identification Guide (CCSIG). CCSIG is an identification guide that is based on the physical characteristics of coral skeletons. It is part of the coralbook project. The source code is [in this folder](https://github.com/odealab/coralbook/ccsig).
 
 The CCSIG exists in three forms:
 
