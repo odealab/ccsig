@@ -8,7 +8,7 @@ The CCSIG exists in three forms:
   
   - pdf: source file ccsig.pdf (created with Microsoft Word) available [in this folder](https://github.com/odealab/coralbook/tree/master/ccsig)
   
-  - photo gallery: source files in [his folder](https://github.com/odealab/ccsig-gallery) (created with Adobe Photoshop Lightroom), published [here](https://odealab.github.io/ccsig-gallery/)
+  - photo gallery: source files in [this folder](https://github.com/odealab/ccsig-gallery) (created with Adobe Photoshop Lightroom), published [here](https://odealab.github.io/ccsig-gallery/)
 
 For more information, please contact:
 
