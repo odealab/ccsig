@@ -14,7 +14,9 @@ output:
 
 
 
-# Read Me 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117236.svg)](https://doi.org/10.5281/zenodo.1117236)
+
+# Overview
 
 1. The Caribbean Coral Skeleton Identification Guide (CCSIG) is an identification guide that is based on the physical characteristics of coral skeletons.
 
