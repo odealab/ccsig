@@ -3,6 +3,7 @@ title: "Caribbean Coral Skeleton Identification Guide"
 author: "Bee Ling Melisa Chan, Nicte-Ha Munoz, Mauro Lepore and Aaron O'Dea"
 date: "August 31, 2016"
 output: 
+  github_document: 
   html_document: 
     fig_caption: yes
     toc: true
